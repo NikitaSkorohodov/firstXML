@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <country>
+    <name>Estonia</name>
+    <language>
+    <lang isOfficial="True">estonian</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="Euro" sign="€"></country>
+    </language>
+    </country>
+     <country>
+    <name>Japan</name>
+    <language>
+    <lang isOfficial="True">japanin</lang>
+    <lang>english</lang>
+    
+    <country name="Yean" sign="¥"></country>
+    </language>
+    </country>
+    <country>
+    <name>Russia</name>
+    <language>
+    <lang isOfficial="True">russia</lang>
+    <country name="Rub" sign="₽"></country>
+    </language>
+    </country>
+    <country>
+    <name>Chaina</name>
+    <language>
+    <lang isOfficial="True">Chaina</lang>
+    <country name="Yuan" sign="¥"></country>
+    </language>
+    </country>
+    <country>
+    <name>Finland</name>
+    <language>
+    <lang isOfficial="True">Finland</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="Euro" sign="€"></country>
+    </language>
+    </country>
+    <country>
+    <name>Poland</name>
+    <language>
+    <lang isOfficial="True">Poland</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="Euro" sign="€"></country>
+    </language>
+    </country>
+    <country>
+    <name>Roman</name>
+    <language>
+    <lang isOfficial="True">Roman</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="Euro" sign="€"></country>
+    </language>
+    </country>
+    <country>
+    <name>Ukrain</name>
+    <language>
+    <lang isOfficial="True">Ukrain</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="grivn" sign="₴"></country>
+    </language>
+    </country>
+    <country>
+    <name>Estonia</name>
+    <language>
+    <lang isOfficial="True">estonian</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <country name="Euro" sign="€"></country>
+    </language>
+    </country>
+</root>
