@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="books.xsd"?>
+<Books>
+    <Book>
+        <BookID>1</BookID>
+        <ISBN>978-161729126</ISBN>
+        <Title>Pro ASP.NET MVC 4</Title>
+        <Description>The ASP.NET MVC 4 framework is the latest evolution of Microsoft's</Description>
+        <Prise>38.8500</Prise>
+        <Pages>500</Pages>
+        <Year>2013-01-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="2" Firstname="Adam" Lastname="freeman"/>
+        </Authors>
+    </Book>
+</Books>
